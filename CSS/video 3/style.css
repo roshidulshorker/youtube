@@ -1,0 +1,86 @@
+/* name */
+
+/* h1{
+    color:red;
+} */
+
+/* hex  */
+/* h1{
+    color: #ffffff;
+} */
+
+/*rgb r=0-255, g=0-255, b=0-255 */
+
+/* h1 {
+  
+  color: rgb(0, 255, 0);
+} */
+
+/* rgba r=red g= green b=blue a=alpha 0-1 */
+
+/* h1 {
+  color: rgba(255, 0, 0, 0.2);
+} */
+
+/* background color  */
+/* h1 {
+  background-color: rgb(255, 0, 0);
+} */
+
+/* background image  */
+
+/* body {
+  background-image: url(images.jpg);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: cover;
+} */
+
+/* CSS units */
+
+/* px means pixel */
+/* h1 {
+  font-size: 15px;
+} */
+
+/* % percentage  */
+/* .parent {
+  width: 200px;
+  background-color: aqua;
+}
+
+.child {
+  width: 50%;
+  background-color: brown;
+} */
+
+/* em  */
+/* .parent {
+  font-size: 30px;
+}
+
+.child {
+  font-size: 2em;
+} */
+
+/* rem  16*/
+
+/* .parent {
+  font-size: 2rem;
+} */
+
+/* vh = viewport height */
+
+/* body {
+  height: 100vh;
+  background-color: red;
+} */
+
+/* vw = viewport width  */
+/* body {
+  width: 100vw;
+} */
+
+/* 1.background-size:cover;
+2.background-repeat:no-repeat;
+3.background-position:center; */

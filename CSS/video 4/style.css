@@ -1,0 +1,17 @@
+h1{
+    color: red;
+    text-align: center;
+    text-decoration: underline double blueviolet ;
+    text-transform: none;
+    text-shadow: 5px 5px 10px red;
+    font-size:40px;
+    font-family: "Caacupe One",arial,sans-serif;
+}
+p{
+    font-weight:bold;
+    line-height: 2;
+    letter-spacing:1px;
+}
+
+
+

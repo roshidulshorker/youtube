@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* div{
+    border: 5px solid red;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-bottom: 30px; 
+
+     padding: 20px 10px 30px 0px;
+    
+    padding: 10px 30px ; 
+     margin-top: 30px; 
+    font-size: 50px;
+    width: 400px;
+    text-align: center;
+    margin: 0 auto;
+} */
+
+/* .box2{
+    width: 300px;
+    height: 200px;
+    background-color: aqua;
+    border: 5px solid black;
+    padding: 20px;
+    box-sizing: border-box;
+    margin: 10px;
+} */
+
+.card{
+    width: 400px;
+    background: green;
+    color: #fff;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+button{
+    margin-top: 20px;
+    padding: 10px;
+}
+
